@@ -143,7 +143,7 @@ li{
   padding: 20px 0 10px;
 }
 .slider__item{
-  background-image: url(../files/slider-image.jpg);
+  background-image: url(../files/slider-image.webp);
   min-height: 440px;
   background-position: top center;
   background-size: cover;
